@@ -2,7 +2,7 @@
     "name": "LazyPrincessV2",
     "description": "LazyPrincess with Url Shortner",
     "stack": "container",
-    "logo": "https://telegra.ph/file/68d28011b2bc356b5db01.png",
+    "logo": "https://telegra.ph/file/94606309da73a6b6e7002.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincessV2",
+    "website": "https://github.com/ankitkhandal",
+    "repository": "https://github.com/ankitkhandal/as",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
